@@ -345,6 +345,7 @@ function VideosSection() {
                     {video.title}
                   </h3>
                   <span className="text-[oklch(0.6_0.04_255)] text-sm mt-1 block">{video.views}</span>
+                  <span className="font-bangers text-[oklch(0.92_0.18_95)] text-base mt-2 block tracking-wide">Coming soon...</span>
                 </div>
               </div>
             </motion.a>
